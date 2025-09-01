@@ -1,0 +1,6 @@
+{
+  "name": "AudioBook Reader",
+  "description": "An application that reads book text aloud using your browser's Text-to-Speech capabilities. Paste your book content, choose a voice, and enjoy listening.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
